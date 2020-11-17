@@ -1,0 +1,13 @@
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csprojAssemblyReference.cache
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\wnova\Desktop\ProjetoLandingPage\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache
